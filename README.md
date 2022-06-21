@@ -1,9 +1,11 @@
 # Inheritence
 
 Account - Base class
+
 Savings Account - Derived class
 
 An Account has a name and a balance.
+
 A Savings Account is an Account and adds an interest rate.
 
 Challenge is the following:
